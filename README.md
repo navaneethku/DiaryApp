@@ -5,7 +5,7 @@ Edit the diary including its date. We have tried our best to make the app appeal
 
 ## Team members
 1. Navaneeth [https://github.com/navaneethku]
-2. Ananthu P [Embed personal github URL]
+2. Ananthu P [https://github.com/talktoananthu]
 ## Team Id
 Team ID : Flutter / 138
 ## Link to product walkthrough
@@ -19,4 +19,5 @@ Flutter - 2.8.1
 Clone the repo or download zipped file and just open vscode at that directory
 ## How to Run
 flutter run file_name.dart
-APK link : https://drive.google.com/drive/folders/1IqEjT-8l1O3OW02QIAGCju931Zk-uJoA?usp=sharing
+##APK Link
+APK Link : https://drive.google.com/drive/folders/1IqEjT-8l1O3OW02QIAGCju931Zk-uJoA?usp=sharing
