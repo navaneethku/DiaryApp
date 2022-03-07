@@ -1,0 +1,4 @@
+# Referenced at D:\Projects\CurrentWork\DiaryApp\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:11
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\Projects\CurrentWork\DiaryApp\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:15
+-keep class com.example.login_with_signup.MainActivity { <init>(); }
